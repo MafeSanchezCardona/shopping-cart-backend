@@ -7,10 +7,11 @@ as constructors.
 
 ## The structure of the project
 The structure of the project is composed of:
-● controller: In this folder are the controllers to expose the REST API
-● dto: In this folder are the Data Transfer Objects
-● entities: Are the entities equivalent to the tables in the database (JPA)
-● repositories: Equivalent of DAO
-● services: In this folder are the classes with business logic.
+
+- controller: In this folder are the controllers to expose the REST API
+- dto: In this folder are the Data Transfer Objects
+- entities: Are the entities equivalent to the tables in the database (JPA)
+- repositories: Equivalent of DAO
+- services: In this folder are the classes with business logic.
 
 In the project there are other folders as resources, it's Contains the data.sql and application.yml
